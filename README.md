@@ -1,7 +1,7 @@
 # portfolio_website
 
 ## Overview
-A detailed infomation about mt skills, education and exeperience
+A detailed infomation about my skills, education, and exeperience
 
 ## Figma Design
 
